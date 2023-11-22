@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Aspen, music festival">
+    <title>Aspen Road Scholars</title>
+    <meta name="author" content="Brad Sclar">
+
+    <!-- Load external CSS -->
+  <link rel="stylesheet" href="assets/styles.css">
+
+  <!-- Enlarge image script -->
+    <script>
+      function enlargeImage(image) {
+          // Get the enlarged image element
+          var enlargedImage = document.getElementById("enlarged-image");
+  
+          // Set the source of the enlarged image to the clicked image
+          enlargedImage.src = image.src;
+  
+          // Display the enlarged image
+          enlargedImage.style.display = "block";
+      }
+  
+      function closeImage() {
+          // Hide the enlarged image
+          var enlargedImage = document.getElementById("enlarged-image");
+          enlargedImage.style.display = "none";
+      }
+    </script>
+  
+  <!-- Close enlarged image -->
+  <img id="enlarged-image" alt="Enlarged Image" onclick="closeImage()">
+  
+</head>
+<body>
+    <h1>Aspen, Colorado</h1>
+
+    <h3><em><q>Music is the shorthand of emotion</q></em></h3>
+
+    <hr>
+
+    <div class="writing">
+        <p>Welcome to Aspen, all ye <a href="https://www.roadscholar.org/find-an-adventure/13900/Aspen-Music-Festival" target="_blank">Road Scholars</a>! We're going to have a great time together - we can't wait to show you this magical place which has been made yet more magical by the incredible music you're about to hear.</p>
+    </div>
+
+    <div class="row">
+        <div class="column center">
+            <img src="images/Aspen1949.jpg" alt="Aspen 1949" height="300" onclick="enlargeImage(this)">
+            <figcaption>Aspen in 1949</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/MusicTentRehearsal.jpg" alt="Music Tent Rehearsal" height="300" onclick="enlargeImage(this)">
+            <figcaption>Rehearsal in the tent</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/MusicSchoolCampus.jpg" alt="Music School Campus" height="300" onclick="enlargeImage(this)">
+            <figcaption>Music school campus</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/InFrontoftheJerome.jpg" alt="In front of the Jerome" height="300" onclick="enlargeImage(this)">
+            <figcaption>In front of the Jerome Hotel</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/RehearsalAudit.jpg" alt="Auditing Rehearsal" height="300" onclick="enlargeImage(this)">
+            <figcaption>Music school campus</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/AspenLunch.jpg" alt="Aspen lunch" height="300" onclick="enlargeImage(this)">
+            <figcaption>Lunch on the mall</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/Inawhitecoat.jpg" alt="In a white tux" height="300" onclick="enlargeImage(this)">
+            <figcaption>In a white tux</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/MusicStudentDorms.jpg" alt="Music Student dorms" height="300" onclick="enlargeImage(this)">
+            <figcaption>Music student dorms</figcaption>
+        </div>
+        <div class="column center">
+            <img src="images/TopoftheWorld.jpg" alt="Top of the World" height="300" onclick="enlargeImage(this)">
+            <figcaption>At the top of Independance Pass</figcaption>
+        </div>
+      </div>
+
+    <div class="writing">
+        <p>Aspen is delightfully small (see below Google map) - you can walk everywhere. Get out those phones and feel free to wander! Great restaurants abound for every taste and budgetary approach.<br><br>
+        
+        The big red pin is Wagner Park which is right in the middle of town.
+        </p>
+        <iframe width="520" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=350%20E%20Durant%20Ave,%20Aspen,%20CO%2081611%20+(Aspen)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href='https://maps-generator.com/'></a>
+    </div>
+
+    <div class="writing">
+        <p><font style="font-size: larger; color: blue;"><u>Things to take into account here in Aspen</u></font></p>
+        <ul>
+            <li style="list-style-type: disc;">Altitude - we're delightfully high here in Aspen, around 8,000 feet</li>
+            <li>We're that much closer to the sun, so have suncreen, hat, and lip balm handy</li>
+            <li>Drink lots of water - we've got water for you on the bus</li>
+            <li>Our schedule is action packed, so when opportunity offers take a nap!</li>
+    </div>
+        
+    </div>
+    
+</body>
+</html>
