@@ -1,0 +1,170 @@
+William
+
+William says:Hi there,
+
+
+William says:how may I be of assistance?
+
+says:Not receiving any inbound fax since 11/22
+
+William
+
+William says:Just a moment while I take a look.
+
+
+William says:Can you confirm which email account is affected as bsclar@prsdata.com does not pull in our system?
+
+says:owen@prsdata.com
+
+says:brad@prsdata.com
+
+William
+
+
+William says:Just a moment more.
+
+says:thx
+
+William
+
+William says:Thank you for your patience. It appears that neither User has been assigned a number to receive Inbound faxes. Please have the Owner go to Numbers then assign a User to the corresponding number to address your issue.
+
+image.png
+image.png
+
+image.png
+
+
+William says:Are you still with me? Just checking in if you still require any help to ensure full support.
+
+says:I'm confused
+
+William
+
+
+William says:Please clarify where you are confused for further explanation. Neither of the User accounts have a number assigned to them. Inbound faxes require a number assigned so that the end points are triggered. The Owner will need to assign numbers to each account so that Inbound faxes are directed to their History.
+
+says:So simply assign a user account to each number to restore functionality?
+
+says:My user account, for example?
+
+says:Tie my user account to 8773233443?
+
+William
+
+
+William says:Yes. That is correct.
+
+says:Will all the faxes not yet received come in then?
+
+William
+
+
+William says:Apologies as my previous reply did not send. No. Unfortunately, only the Inbound faxes moving forward will be received. However, the Owner on the account still has access to the previous faxes and can forward any needed to you.
+
+says:I rec'vd an email stating that all previously established would not be affected. That does not seem to be the case.
+
+says:established webhooks
+
+William
+
+
+William says:To clarify, are you having an issue with Inbound faxes or Inbound faxes and Webhooks as this was not previously mentioned?
+
+says:Inbound faxes and webhooks
+
+says:Here's the email I rec'vd: Starting no sooner than Thursday, November 16th, any new webhooks that are created will not have the option to include attachments. This is a more secure feature to protect your data. Any current webhooks that are implemented on your account will not be affected by this, unless you disable the option to include attachments, in which case you will be unable to enable the feature again.
+
+says:This notice references NEW webhooks. We only have previously established webhooks.
+
+William
+
+
+William says:Understood and thank you for sharing that information. I will have our teams look into this and follow up once they've responded. With regard to the Inbound faxes, however, the information and steps provided will address and resolve that for you.
+
+says:Is it effective immediately? Just ran a test to 8773233443 with nothing received
+
+William
+
+
+William says:Once the number's been assigned, yes. Do you mind if I send a test fax as well to confirm this has been completed?
+
+says:Please - that'd be great
+
+William
+
+
+William says:My pleasure. Just a moment.
+
+says:Do I have to assign a user to the numbers under the All Platform tab as well?
+
+William
+
+
+William says:No. Just ensure that the number is assigned to the email is all that is required. I've also just sent the Off-net test fax and you should see it coming from (702)989-4322 once completed which I will confirm on our end as well.
+
+says:Not seeing anything recvd on our end
+
+says:Are you still there? I need your help in getting this critical component of our business resolved. I appreciate your help.
+
+William
+
+image.png
+
+William says:Please refresh as I show the test fax in your history now.
+
+says:Checking and thanks
+
+William
+
+
+William says:Yes. I am here. The previous response and screenshot did not send when selected. Apologies.
+
+says:I received an email notification but no attachment in the application the webhook sends the attachment to
+
+says:Seems like progress
+
+says:Can you send a test with an attachment?
+
+says:a pdf?
+
+William
+
+
+William says:The test fax that was sent was a Smiley face pdf doc which you can download in the portal.
+
+says:I got it, but the webhook should send the smiley face to our target application
+
+William
+
+
+William says:Understood and I will relay this back to our dev team with regard to the Webhook issue now. I'll update you once they've responded with further clarification.
+
+says:thx - any guess on when this critical issue will be addressed?
+
+William
+
+
+William says:No confirmed ETA as this has not been reported as a wide spread issue but I will express the urgency of the matter to them.
+
+says:We receive faxes for a medical billing company and for a physician's office so this is VERY critical to us
+
+William
+
+
+William says:Understood.
+
+says:How will you get hold of me?
+
+says:email?
+
+New
+William
+
+
+William says:bsclar@prsdata.com is the email we show for this chat and where any further updates will be directed if the chat is closed, otherwise; you will continue receiving responses here.
+
+says:Ok - I just tested the webhook for the 877 number and nothing received so the webhook portion is not yet functioning
+Sent · 8:16 PM
+
+Type a message
