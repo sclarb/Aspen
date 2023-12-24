@@ -118,3 +118,20 @@ iframe {
   max-height: 90%;
   opacity: 1;
 }
+/* Background image */
+.bg {
+  background-image: url(Aspen1949.gif);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 25px;
+  height: 40vh;
+}
+
+.container {
+  background-image: url('Aspen1949.jpg'); /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
+  background-size: 100%; /* Cover the entire background */
+  background-position: center center; /* Center the background image horizontally and vertically */
+  height: 275px; /* Set the height of the container */
+  border-radius: 50px;
+}
